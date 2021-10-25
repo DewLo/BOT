@@ -4,7 +4,7 @@ import asyncio
 from aiogram import Bot, Dispatcher, executor
 import csv, datetime, sqlite3
 
-API_TOKEN = '1954545215:AAF0kw-N_8jFUx-iH1ODZuNhti0YpnkDx1g'
+API_TOKEN = ''
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
